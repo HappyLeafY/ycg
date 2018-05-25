@@ -1,0 +1,12 @@
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\controller\LoginController.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\web\AuthRealm.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\dao\User.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\dao\Role.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\web\CredentialsMatcher.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\service\UserService.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\ShiroOpen.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\mapper\UserMapper.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\service\impl\UserServiceImpl.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\web\config\DruidConfiguration.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\web\config\ShiroConfig.java
+D:\workspace\STSWorkspace\SpringShiro\src\main\java\cn\ycg\shiro\dao\Module.java
